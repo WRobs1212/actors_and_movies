@@ -1,9 +1,3 @@
-#CSIT 163 OL1 Spring
-#Wyatt Robertson
-#2/8/2026
-
-
-
 #useful to movie things to text files later
 import os
 
